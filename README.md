@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **PurnenduSamanta**,pursuing Masters in Computer Application(MCA),interested to write some useful code for making Mobile Apps
+I am **Purnendu Samanta** ,pursuing Masters in Computer Application(MCA),interested to write some useful code for making Mobile Apps
 
 Here is my gist:
 
