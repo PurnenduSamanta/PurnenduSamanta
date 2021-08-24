@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**PurnenduSamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **PurnenduSamanta**,pursuing Masters in Computer Application(MCA),interested to write some useful code for making Mobile Apps
 
 Here is my gist:
 
