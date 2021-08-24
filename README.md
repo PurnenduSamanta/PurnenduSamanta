@@ -9,7 +9,7 @@ Here is my gist:
 - 👯 I’m looking to collaborate on Flutter Project
 - 🤔 I’m looking for help with  Flutter 
 - 💬 Ask me about C,C++,java,Android
-- 📫 How to reach me: joysamanta123@gmail.com,www.linkedin.com/in/purnendu9614
-- 😄 Pronouns: joke
-- ⚡ Fun fact: cup<3
+- 📫 How to reach me: joysamanta123@gmail.com, https://www.linkedin.com/in/purnendu9614/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I 💖 🎶
 
